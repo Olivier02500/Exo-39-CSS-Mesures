@@ -1,0 +1,10 @@
+html {
+    font-size: 62.5%
+}
+
+.container {
+    height: 20rem;
+    width: 20rem;
+    border: 2px dashed purple;
+    background: lightgray;
+}
